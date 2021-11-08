@@ -1,0 +1,5 @@
+os: linux
+arch: ppc64le
+script: | 
+  chmod +x hello-world.sh
+  ./hello-world.sh
